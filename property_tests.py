@@ -2,7 +2,7 @@
 E0 251o — Property-based tests for NetworkX (Hypothesis).
 
 Team: Abhishek Malik
-SNo: 13-19-01-19-52-25-1-26268
+SR No: 13-19-01-19-52-25-1-26268
 Team Size: 1
 
 Algorithms tested:
