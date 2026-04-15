@@ -1,7 +1,10 @@
 """
 E0 251o — Property-based tests for NetworkX (Hypothesis).
 
-Team: Abhishek Malik (Team Size: 1)
+Team: Abhishek Malik
+SNo: 13-19-01-19-52-25-1-26268
+Team Size: 1
+
 Algorithms tested:
   - Node classification: harmonic_function (Gaussian fields / harmonic relaxation),
     local_and_global_consistency (networkx.algorithms.node_classification)
