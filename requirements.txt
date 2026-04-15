@@ -1,0 +1,5 @@
+networkx>=3.2
+hypothesis>=6.92
+pytest>=8.0
+numpy>=1.26
+scipy>=1.11
